@@ -1,3 +1,3 @@
 <?php
 
-echo '<h1>Workshop Google Cloud Platform wit Github in Unisel!</h1>';
+echo '<h1>Workshop Google Cloud Platform with Github in Unisel!</h1>';
